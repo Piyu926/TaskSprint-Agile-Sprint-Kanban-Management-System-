@@ -1,16 +1,42 @@
-# React + Vite
+# 🚀 TaskSprint – Agile Sprint & Kanban Management System
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive Agile project management and sprint tracking web application built with **React.js** and powered by **Firebase Realtime Database & Authentication**. 
 
-Currently, two official plugins are available:
+Designed to streamline team workflows, optimize backlog planning, and visualize progress using industry-standard Agile frameworks.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+## ✨ Key Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- **🔐 Secure Authentication:** Seamless email/password sign-in and registration with customized user profiles and session management.
+- **📁 Multi-Project Workspaces:** Create, organize, and manage multiple projects independently with dynamic progress tracking and clean cascade task removal.
+- **📋 Interactive Kanban Board:** Real-time visual sprint board divided into **To Do**, **In Progress**, and **Done** with drag-and-drop state transitions.
+- **⚡ Agile Story Points & Velocity:** Assign effort estimation points (1, 2, 3, 5, 8 pts) to tasks and monitor real-time Sprint Velocity metrics and completion percentages.
+- **⏰ Due Dates & Overdue Alerts:** Automatic deadline tracking that dynamically highlights overdue commitments in red.
+- **🔍 Realtime Search & Filtering:** Instantly filter tasks by keywords without page reload.
+- **☁️ Live Cloud Sync:** Instant bi-directional data persistence using Firebase Realtime Database.
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Tech Stack
+
+- **Frontend:** React.js, Vite, HTML5, Modern CSS3 (Flexbox/CSS Grid)
+- **Backend & Cloud:** Firebase Authentication, Firebase Realtime Database
+- **Icons & UI Utilities:** Lucide React / SVG Icons
+- **Version Control:** Git & GitHub
+
+---
+
+## 🚦 Getting Started
+
+Follow these steps to run the project locally on your machine:
+
+### Prerequisites
+- Node.js (v18 or higher recommended)
+- npm or yarn
+
+### Installation & Run
+
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/Piyu926/TaskSprint-Agile-Sprint-Kanban-Management-System-.git](https://github.com/Piyu926/TaskSprint-Agile-Sprint-Kanban-Management-System-.git)
