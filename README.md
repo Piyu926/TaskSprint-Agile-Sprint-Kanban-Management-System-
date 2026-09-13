@@ -38,5 +38,4 @@ Follow these steps to run the project locally on your machine:
 ### Installation & Run
 
 1. **Clone the repository:**
-   ```bash
    git clone [https://github.com/Piyu926/TaskSprint-Agile-Sprint-Kanban-Management-System-.git](https://github.com/Piyu926/TaskSprint-Agile-Sprint-Kanban-Management-System-.git)
